@@ -3,7 +3,8 @@
 
 
 ####  🔭 I'm a full time Software engineer at Huawei
-####  🌱 I’m currently learning: TypeScript, Angular
+####  🌱 I’m currently learning: TypeScript
+####  📚 My repositories are mostly private, I'm going to share them on demand.
 ####  📈 Tech Stack:
 - NodeJS | Express
 - Angular | React | NextJS
